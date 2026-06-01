@@ -1,5 +1,5 @@
 # ESPE-Tech Inventory
-## Alex Cancignia
+## Alex Canchignia
 Modulo Spring Boot para gestionar y analizar inventario de equipos tecnologicos de laboratorio.
 
 ## Objetivo
